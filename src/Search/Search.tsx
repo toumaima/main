@@ -2,8 +2,8 @@ import { SearchButton ,SearchInput, Header, Wrapper, Label, Container, ItemWrapp
 
 import React, {useState, useEffect} from "react";
 import {useDispatch, useSelector} from "react-redux";
-import * as types from  '../redux/actionTypes'
-import {RootState} from '../redux/store';
+import * as types from  '../Redux/actionTypes'
+import {RootState} from '../Redux/store';
 
 
 
